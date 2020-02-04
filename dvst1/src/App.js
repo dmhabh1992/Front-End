@@ -15,12 +15,7 @@ function App() {
           <Route to="login" component={login}></Route> */}
         </div>
         <img src="https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt=""/>
-        <p>
-          
-        </p>
-        <a>
-
-        </a>
+        
       </header>
     </div>
   );
